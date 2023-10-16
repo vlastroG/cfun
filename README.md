@@ -1,2 +1,2 @@
 # cfun
-This is my C study project.
+This project contains simple C programs for Linux
