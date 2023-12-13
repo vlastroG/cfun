@@ -26,7 +26,7 @@ int spaces_count(const char* str) {
     return count;
 }
 
-int spaces_count_recursion(char* str) {
+int spaces_count_recursion(const char* str) {
     if (*str == ' ') {
         return 1 + spaces_count_recursion(++str);
     } else if (*str == 0) {
