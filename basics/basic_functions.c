@@ -45,4 +45,5 @@ int main() {
     printf("spaces count = %d\n", count);
     count = spaces_count_recursion(str);
     printf("spaces count recursion = %d\n", count);
+    return 0;
 }

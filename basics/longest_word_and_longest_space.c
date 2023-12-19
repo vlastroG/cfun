@@ -38,4 +38,5 @@ int main() {
             letters_count = 0;
         }
     }
+    return 0;
 }

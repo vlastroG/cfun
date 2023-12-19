@@ -26,4 +26,5 @@ int main() {
             parenthesis_score = 0;
         }
     }
+    return 0;
 }

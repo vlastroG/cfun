@@ -20,4 +20,5 @@ int main() {
             pair = 0;
         }
     }
+    return 0;
 }

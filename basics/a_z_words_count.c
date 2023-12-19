@@ -33,4 +33,5 @@ int main() {
             prev_letter_is_space = 0;
         }
     }
+    return 0;
 }
